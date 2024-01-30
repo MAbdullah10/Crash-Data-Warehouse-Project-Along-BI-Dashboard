@@ -59,9 +59,9 @@ This project aims to establish a comprehensive Crash Data Warehouse to analyze a
 
 ### Getting Started
 
-1. Clone the repository: `git clone https://github.com/yourusername/roadsafety-data-warehouse.git`
-2. Follow instructions in the `/ETL` and `/SQL` directories for database setup and ETL execution.
-3. Open Power BI files in `/PowerBI` for dashboard exploration.
+1. Clone the repository: `github.com/MAbdullah10/Crash-Data-Warehouse-Project-Along-BI-Dashboard`
+3. Follow instructions in the `/ETL` and `/SQL` directories for database setup and ETL execution.
+4. Open Power BI files in `/PowerBI` for dashboard exploration.
 
 ### Conclusion
 
